@@ -4,6 +4,8 @@ Inspired by https://mill3.studio/en/projects/gsoft/
 
 A Tailwind + NextJS + Lenis + Framer Motion project to achieve a nice clean parallax effect
 
+https://parallax-image-gallery-samratjha96.vercel.app/
+
 ![demo](https://github.com/samratjha96/parallax-image-gallery/blob/main/demo.gif?raw=true)
 
 ## Development
