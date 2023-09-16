@@ -48,10 +48,13 @@ export default function Home() {
     <main>
       <div className={`h-[100vh] ${inter.className}`}>
           <div className="flex flex-col justify-center items-center p-8">
-            <h1 className="text-2xl md:text-4xl font-bold tracking-tight md:tracking-tighter leading-tight mb-20 mt-8">
+            <h2 className="text-2xl md:text-4xl font-bold tracking-tight md:tracking-tighter leading-tight mb-20 mt-8 text-zinc-600">For best experience, visit on your computer</h2>
+            <h1 className="text-2xl md:text-4xl font-bold tracking-tight md:tracking-tighter leading-tight mb-20 mt-8 text-gray-700">
               Start Scrolling
             </h1>
-            <h2 className="text-2xl md:text-4xl font-bold tracking-tight md:tracking-tighter leading-tight mb-20 mt-8 text-gray-400">For best experience, visit on your computer</h2>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit voluptates qui natus laboriosam nesciunt porro ducimus nisi explicabo voluptas velit ut nihil, odit, reprehenderit est animi similique nobis iusto voluptatibus quis saepe? Et fuga molestias doloribus quo, temporibus explicabo quaerat deserunt nesciunt, sint magni perspiciatis nulla itaque obcaecati dignissimos blanditiis! Sit, consectetur harum autem illum in omnis fugit molestiae delectus consequatur non impedit nisi unde molestias ducimus qui praesentium. Eum officia alias eligendi? Quos eius commodi est, molestias repudiandae hic fugit rerum maxime illum iure, veritatis dolore inventore voluptatum asperiores fugiat atque rem fuga culpa vitae. Obcaecati ducimus fugit deserunt.
+            </p>
           </div>
       </div>
       <div
